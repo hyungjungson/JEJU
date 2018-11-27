@@ -278,7 +278,7 @@ section#about p.text span:nth-child(3) { letter-spacing: 0.8px; }
     top: 122px;
     -webkit-animation-delay: .3s;
     animation-delay: .3s;
-  }  
+  }
   #section06 a span:nth-of-type(5) {
     top: 138px;
     -webkit-animation-delay: .3s;
@@ -440,7 +440,7 @@ footer .foot .r_foot a { text-decoration: none; color:#fff; }
    /*.bg { background-image: url('../images/bg2.jpg'); }*/
   #home{ background: url('../images/bg3.jpg') 50% center repeat fixed; background-position:cover; }
   .content { padding:35% 0 0%; height:100vh; }
-  /*.content p.title_01 { font-size:4.5vw; }*/
+  .content p.title_01 { font-size:4.5vw; }
   /*.content { padding:20% 0; }*/
   #about { height:100vh; background: transparent;}
   section { margin:0 5%; }
@@ -505,7 +505,7 @@ footer .foot .r_foot a { text-decoration: none; color:#fff; }
     section#about div.about_wrap { margin:0 10% !important;  }
     section#about p.text:last-child{ padding-bottom:50%; }
     div .demo a { top:31%; left: 50%;}
-    div .demo2 a { bottom:5%; left: 50%;}
+    div .demo2 a { bottom:10%; left: 50%;}
     .squre {display:inline-block; padding-bottom:1%; margin-bottom:3%; background:#fff; width:30%;   }
     
     /*footer*/
